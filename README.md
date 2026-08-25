@@ -50,8 +50,12 @@ Ensure you have Python 3 installed on your system.
 
 ## Dataset Setup
 
+The dataset used for this project contains detailed real estate listings including prices, carpet area, and location details. 
+
+- **Source Link:** [House Price Dataset by Juhi Bhojani on Kaggle](https://www.kaggle.com/datasets/juhibhojani/house-price)
+
 Before running the code, you must place the raw dataset in the correct folder:
-1. Obtain the `house_prices.csv` dataset provided during the project phase.
+1. Download the `house_prices.csv` dataset from the link above.
 2. Create a folder named `data` in the root of the project (if it doesn't exist).
 3. Place the `house_prices.csv` file inside the `data/` folder.
 
@@ -103,8 +107,6 @@ The chosen model is a **Random Forest Regressor** due to its superior non-linear
 
 ## Screenshots
 
-<img width="1887" height="822" alt="image" src="https://github.com/user-attachments/assets/7bbbce38-9b8f-4ba2-9b6f-3b71b37d51d9" />
-<img width="1868" height="871" alt="image" src="https://github.com/user-attachments/assets/c46c99c8-734a-49a7-833b-62d75be6a011" />
-
-
+<img width="1887" height="822" alt="image" src="https://github.com/user-attachments/assets/ac2a8fb0-47e3-460e-a90f-7304088d9c68" />
+<img width="1868" height="871" alt="image" src="https://github.com/user-attachments/assets/cf7cf93f-9ff4-4e54-b633-14e13ae2dcc7" />
 
